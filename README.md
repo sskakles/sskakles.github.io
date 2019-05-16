@@ -13,6 +13,6 @@ Umbrella Academy is a anti-fragile twenty-two-column Jekyll theme, perfect for b
 [![Live preview][2]][1]
 
 [1]: https://www.netflix.com/title/80186863/
-[2]: screenshot.png (live preview)
+[2]: screenshot.jpeg (live preview)
 
 
