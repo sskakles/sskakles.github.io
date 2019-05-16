@@ -1,7 +1,7 @@
 ---
 title: Avocado Theme
 image: /images/thought-catalog-620865-unsplash.jpg
-description: Avocado is a bootstrap based, clean, minimal Jekyll theme.
+description: Health Wellness Professional: Management, Educator, Innovator, Occupational Therapist, Pediatrics, Safe Driving.
 buy-link: https://pages.razorpay.com/avocado
 author: john
 categories:
