@@ -7,3 +7,12 @@
 Umbrella Academy is a anti-fragile twenty-two-column Jekyll theme, perfect for building, well nothing really and customized by you :smile:.
 
 :sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+
+## Live preview and demo page
+
+[![Live preview][2]][1]
+
+[1]: https://www.netflix.com/title/80186863/
+[2]: screenshot.png (live preview)
+
+
