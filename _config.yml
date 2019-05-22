@@ -9,23 +9,23 @@
 # Almost all the things in the website can be customized from here.
 # Changing title and description according to your website requirement is important.
 
-
+# Footer stuff here....TODO (sskakles) get this to replicate elsewhere
 title: Melissa "Missy" Bell 
 description: Health Wellness Professional
-email: missybell.atx@gmail.com # The contact form submission will be done to this email address.
+email: sskakles@live.com #missybell.atx@gmail.com # The contact form submission will be done to this email address.
 phone: (512) 689-0236
-url: https://avocado.jekyll-themes.com
+url: https://https://sskakles.github.io
 default-image: /images/avocado-cover.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
 
-# Author details shows up at the end of every article
+# Author details shows up at the end of every article/blog
 author:
     name: Melissa "Missy" Bell
-    bio: "Missy is a licensed Occupational Therapist with pediatric and driving rehabilitation experience since 2001. She owned and operated a Driving Readiness Program for Teens, Driving Fitness, as a part of her specialty OT/Educational Support Services clinic, Extra Credit! LLC. Missy is advancing her skills through mentorship and advanced education to work with additional populations and for certification in the field. She has obtained AOTA driving badges in adolescent driving, and adult driving and community mobility levels I, II, III and is a certified CarFit OT technician. Missy is currently completing the Take the Wheel Workshop by Adaptive Mobility Services and is an ADED member and a certified driving instructor. She works as an independent contractor in Texas and enjoys assisting in various ways with Driver Rehab Products."
+    bio: "Missy is a licensed Occupational Therapist with pediatric and driving rehabilitation experience since 2001. She owned and operated a Driving Readiness Program for Teens, Driving Fitness, as a part of her specialty OT/Educational Support Services clinic, Extra Credit! LLC. <br/><br/>Missy is advancing her skills through mentorship and advanced education to work with additional populations and for certification in the field. She has obtained AOTA driving badges in adolescent driving, and adult driving and community mobility levels I, II, III and is a certified CarFit OT technician. Missy is currently completing the Take the Wheel Workshop by Adaptive Mobility Services and is an ADED member and a certified driving instructor. She works as an independent contractor in Texas and enjoys assisting in various ways with Driver Rehab Products."
     image: author-image.jpg # Choose a 200x200px image and place it inside /images directory.
-    facebook: https://facebook.com
-    twitter: https://twitter.com
-    quora: https://www.quora.com/
-
+    facebook: https://www.facebook.com/missybell.atx
+    #twitter: https://twitter.com
+    #quora: https://www.quora.com/
+    linkedin: https://www.linkedin.com/in/melissabellatx/
 
 # Kramdown is supported by Github
 markdown: kramdown

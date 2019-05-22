@@ -8,6 +8,9 @@
 			<h5>{{site.author.name }}</h5>
 			<p>{{site.author.bio}}</p>
 			<ul>
+				{% if site.author.linkedin %}
+				<li><a target="_blank" href="{{site.author.linkedin}}"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+				{% endif %}
 				{% if site.author.facebook %}
 				<li><a target="_blank" href="{{site.author.facebook}}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
 				{% endif %}

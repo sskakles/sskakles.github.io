@@ -68,16 +68,28 @@ a.nostyle {
 	transition-duration: 0.3s;
 
 	.navbar-brand {
-		font-size: 1.5rem;
+		font-size: 1.65rem;
+		-moz-transition-duration: 0.3s;
+		-o-transition-duration: 0.3s;
+		-webkit-transition-duration: 0.3s;
+		transition-duration: 0.3s;
+    color: $brand_color !important;
+	}
+
+	.logo {
+		height: 35px;
+		width: 35px;
+
 		-moz-transition-duration: 0.3s;
 		-o-transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
 		transition-duration: 0.3s;
 	}
 
-	.logo {
-		height: 35px;
-		width: 35px;
+  .logo2 {
+		height: 40px;
+		width: 40px;
+    opacity: 0.7;
 
 		-moz-transition-duration: 0.3s;
 		-o-transition-duration: 0.3s;
@@ -455,6 +467,12 @@ a.nav-link.active {
 	.logo {
 		height: 28px;
 		width: 28px;
+	}	
+  
+  .logo2 {
+		height: 30px;
+		width: 30px;
+    opacity: 0.7;
 	}
 }
 
@@ -488,10 +506,17 @@ main {
 	font-size: $base-fs * 1.1;
 }
 
+//.double-u {
+//		font-size: $base-fs;
+//		text-decoration-style:double;
+//		text-decoration-line: underline;
+//    font-size: 1.5rem;
+//  
+//}
+
 .double-u {
 		font-size: $base-fs;
-		text-decoration-style:double;
-		text-decoration-line: underline;
+    color: $brand_color;
 }
 
 #team {
