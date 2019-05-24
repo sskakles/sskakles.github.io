@@ -311,7 +311,7 @@ section {
 footer {
     font-weight: 300;
     background: #222;
-	color: #ddd;
+	  color: #ddd;
     padding: 40px 0;
 
 	h3 {
@@ -327,25 +327,31 @@ footer {
 		line-height: 1.3;
 	}
 
-     a {
-			font-size: $base-fs * 0.7;
-			font-weight: 300;
-		 	color: #aaa;
-		    line-height: 1.3;
-			 &:hover {
-				color: #fff;
-			 }
-
-        }
+ a {
+    font-size: $base-fs * 0.7;
+    font-weight: 300;
+    color: #aaa;
+    line-height: 1.3;
+     &:hover {
+      color: #fff;
+     }
+  }
 
 
 	ul, li {
 		list-style: none;
 		padding: 0;
 		line-height: 1.3;
-
 	}
-
+  
+  li span {
+    font-weight: 300;
+    color: #aaa;
+    font-size: $base-fs * 0.7;    
+    line-height: 1.3;
+    
+  }
+  
 }
 
 .categories-page {
@@ -427,6 +433,16 @@ a.nav-link.active {
 	}
 }
 
+.nav-item {
+//  font-size: $base-fs * 0.9;
+  font-weight: 400 !important;
+}
+
+//.nav-item > shrink {
+//  font-size: 12.6px;
+//  
+//}
+
 .logo-box {
 	img {
 		display: inline-block;
@@ -470,8 +486,8 @@ a.nav-link.active {
 	}	
   
   .logo2 {
-		height: 30px;
-		width: 30px;
+		height: 32px;
+		width: 32px;
     opacity: 0.7;
 	}
 }
@@ -515,7 +531,7 @@ main {
 //}
 
 .double-u {
-		font-size: $base-fs;
+		font-size: $base-fs * 1.1;
     color: $brand_color;
 }
 
@@ -569,7 +585,7 @@ main {
 
 	.name {
 		font-weight: 400;
-		font-size: 1em;
+		font-size: 1.2em;
 		margin-top: 10px;
 		margin-bottom: 0;
 		line-height: 1;
@@ -581,7 +597,7 @@ main {
 		margin-top: 0;
 		margin-bottom: 0;
 		color: $grey-color;
-		font-size: $base-fs * 0.9;
+		font-size: $base-fs * 0.99;
 		text-transform: uppercase;
 	}
 

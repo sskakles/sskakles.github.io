@@ -17,7 +17,7 @@ body {
     line-height: $base-lh;
     text-rendering: optimizeLegibility;
     height: 100%;
-	overflow-x: hidden;
+	  overflow-x: hidden;
     @include media-query($on-palm) {
         font-size: $base-fs * 0.7;
     }
@@ -95,7 +95,6 @@ section {
 hr {
 	margin: 0;
 }
-
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
  font-size: $small-fs;
