@@ -433,7 +433,7 @@ a.nav-link.active {
 	}
 }
 
-.nav-item {
+.nav-item, .nav-item-custom {
 //  font-size: $base-fs * 0.9;
   font-weight: 400 !important;
 }
@@ -442,6 +442,12 @@ a.nav-link.active {
 //  font-size: 12.6px;
 //  
 //}
+
+.nav-item-custom {
+  font-size: $base-fs * 0.8 !important;
+//	text-transform: uppercase;
+  color: $color !important;
+}
 
 .logo-box {
 	img {
