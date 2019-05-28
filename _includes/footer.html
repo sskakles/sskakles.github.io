@@ -1,57 +1,58 @@
 <footer>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4">
-				<div class="logo-box">
-					<!--					<img width="30" src="/images/avocado-transparent-small.png" alt="{{site.title}}">-->
-					<!--					<h3>{{site.title}}</h3>-->
-					<h3>Melissa "Missy" Bell</h3>
-					<p>OTR, DRS, CDI, CPT</p>
-					<p>Occupational Therapist, Driving Rehab Specialist, Driving Instructor and Total Wellness Professional.</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="logo-box">
+          <!--					<img width="30" src="/images/avocado-transparent-small.png" alt="{{site.title}}">-->
+          <!--					<h3>{{site.title}}</h3>-->
+          <h3>Melissa "Missy" Bell</h3>
+          <p>OTR, DRS, CDI, CPT</p>
+          <p>Occupational Therapist, Driving Rehab Specialist, Driving Instructor and Total Wellness Professional.</p>
 
-					<!-- TODO (sskakles) update this shit here -->					
-<!--
+          <!-- TODO (sskakles) update this shit here -->
+          <!--
 					<li><a href="https://www.facebook.com/missybell.atx"><i class="fa fa-facebook-official fa"></i></a></li>
 					<li><a href="https://www.linkedin.com/in/melissabellatx/"><i class="fa fa-linkedin-square fa"></i></a></li>					
 -->
-					
-				</div>
-			</div>
-			<div class="col-md-2">
-				<h3>Pages</h3>
-				<ul>
-					{% for item in site.data.nav %}
-					<li><a href="{{item.link}}">{{item.title}}</a></li>
-					{% endfor %}
-				</ul>
-			</div>
-			<div class="col-md-3">
-				<h3>Latest Blogs</h3>
-				{% for post in site.posts limit: 4 %}
-				<li><a href="{{post.url}}">{{post.title}}</a></li>
-				{% endfor %}
-			</div>
-			<div class="col-md-3">
-				<h3>Contact Me</h3>
-				<li><span>Email:</span><a href="mailto:{{site.email}}"> {{site.email}}</a></li>
-				<li><span>Phone:</span><a href="tel:{{site.phone}}"> {{site.phone}}</a></li>
-				<!--Start of Tawk.to Script-->
-				<script type="text/javascript">
-					var Tawk_API = Tawk_API || {},
-						Tawk_LoadStart = new Date();
-					(function() {
-						var s1 = document.createElement("script"),
-							s0 = document.getElementsByTagName("script")[0];
-						s1.async = true;
-						s1.src = 'https://embed.tawk.to/{{site.tawkto-id}}/default';
-						s1.charset = 'UTF-8';
-						s1.setAttribute('crossorigin', '*');
-						s0.parentNode.insertBefore(s1, s0);
-					})();
 
-				</script>
-				<!--End of Tawk.to Script-->
-			</div>
-		</div>
-	</div>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <h3>Pages</h3>
+        <ul>
+          {% for item in site.data.nav %}
+          <li><a href="{{item.link}}">{{item.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-2">
+        <h3>Latest Blogs</h3>
+        <ul>{% for post in site.posts limit: 4 %}
+          <li><a href="{{post.url}}">{{post.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <h3>Contact Me</h3>
+        <li><span>Email:</span><a href="mailto:{{site.email}}"> {{site.email}}</a></li>
+        <li><span>Phone:</span><a href="tel:{{site.phone}}"> {{site.phone}}</a></li>
+        <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+          var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+          (function() {
+            var s1 = document.createElement("script"),
+              s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/{{site.tawkto-id}}/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+          })();
+
+        </script>
+        <!--End of Tawk.to Script-->
+      </div>
+    </div>
+  </div>
 </footer>
