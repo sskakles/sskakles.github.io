@@ -4,31 +4,62 @@
 #  link: /portfolio/
   
 - title: Hospitals & Clinics
-  category: Referrals
+  category: 
   image: /images/portfolio/hospitals-and-clinics.jpg
   link: /portfolio/hospitals-and-clinics/
 
-- title: Speaker
-  category: Concept & Design
-  image: /images/portfolio/marius-masalar-139960-unsplash.jpg
-  link: /portfolio/
+- title: Driver Education Lessons
+  category:
+  image: /images/portfolio/canva-blue-suv-on-road.jpg
+  link: /portfolio/driver-education-lessons/
 
-- title: Banana
-  category: Photography
-  image: /images/portfolio/mike-dorner-173502-unsplash.jpg
-  link: /portfolio/
+- title: Age-Related Driving Assistance
+  category:
+  image: /images/portfolio/age-related-driving-assistance.jpg
+  link: /portfolio/age-related-driving-assistance/
 
-- title: Pantone
-  category: Photography
-  image: /images/portfolio/autri-taheri-435297-unsplash.jpg
-  link: /portfolio/
+- title: Driving Readiness for Teens
+  category:
+  image: /images/portfolio/driving-readiness-for-teens.jpg
+  link: /portfolio/driving-readiness-for-teens/
 
-- title: Leaf
-  category: Photography
-  image: /images/portfolio/agata-create-1098094-unsplash.jpg
-  link: /portfolio/
+- title: Useful Tools & Equipment
+  category:
+  image: /images/portfolio/useful-tools-and-equipment.jpg
+  link: /portfolio/useful-tools-and-equipment/
 
-- title: Apartment
-  category: Photography
-  image: /images/portfolio/erol-ahmed-255854-unsplash.jpg
-  link: /portfolio/
+- title: Driver Assessment & Training
+  category:
+  image: /images/portfolio/driver-assessment-and-training.jpg
+  link: /portfolio/driver-assessment-and-training/
+
+
+#- title: Speaker
+#  category: Concept & Design
+#  image: /images/portfolio/marius-masalar-139960-unsplash.jpg
+#  link: /portfolio/
+#
+#- title: Speaker
+#  category: Concept & Design
+#  image: /images/portfolio/marius-masalar-139960-unsplash.jpg
+#  link: /portfolio/
+
+#- title: Banana
+#  category: Photography
+#  image: /images/portfolio/mike-dorner-173502-unsplash.jpg
+#  link: /portfolio/
+#
+#- title: Pantone
+#  category: Photography
+#  image: /images/portfolio/autri-taheri-435297-unsplash.jpg
+#  link: /portfolio/
+
+#- title: Leaf
+#  category: Photography
+#  image: /images/portfolio/agata-create-1098094-unsplash.jpg
+#  link: /portfolio/
+
+#- title: Apartment
+#  category: Photography
+#  image: /images/portfolio/erol-ahmed-255854-unsplash.jpg
+#  link: /portfolio/
