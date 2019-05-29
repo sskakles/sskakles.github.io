@@ -1,5 +1,5 @@
 ---
-title: Teaching Driving Readiness to Teens
+title: Teaching Readiness to Teens
 image: /images/teaching-driving-readiness-teens.jpg
 author: Missy
 published: true
