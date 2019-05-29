@@ -2,6 +2,7 @@
 title: Go wherever you like!
 image: /images/ishan-seefromthesky-403804-unsplash.jpg
 author: john
+published: true
 categories: 
     - life
     - travel

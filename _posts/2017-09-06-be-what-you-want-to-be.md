@@ -2,6 +2,7 @@
 title: Be what you want to be!
 image: /images/beautiful-2150881_1280.jpg
 author: john
+published: true
 categories: 
     - life
     - experience

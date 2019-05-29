@@ -68,7 +68,7 @@ a.nostyle {
 	transition-duration: 0.3s;
 
 	.navbar-brand {
-		font-size: 1.65rem;
+		font-size: 1.5rem;
 		-moz-transition-duration: 0.3s;
 		-o-transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
@@ -445,7 +445,6 @@ a.nav-link.active {
 
 .nav-item-custom {
   font-size: $base-fs * 0.8 !important;
-//	text-transform: uppercase;
   color: $color !important;
 }
 
@@ -496,6 +495,11 @@ a.nav-link.active {
 		width: 32px;
     opacity: 0.7;
 	}
+  
+  .nav-item-custom {
+    font-size: $base-fs * 0.7 !important;
+    min-height: 30px;    
+  }
 }
 
 // Go to top button

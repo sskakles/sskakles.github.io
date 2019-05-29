@@ -9,17 +9,16 @@ description: Find all about avocado jekyll theme posts here.
 	<div class="row">
 		<div class="col-lg-8">
 			{% for post in paginator.posts %}
-			<a class="nostyle" href="{{site.baseurl}}{{post.url}}">
-				<div class="row cards blog-list rev">
-					<div class="col-md-4 image" style="background-image: url({{site.baseurl}}{{post.image}});">
-					</div>
-					<div class="col-md-8 content">
-						<h3 class="blog-index-title">{{post.title}}</h3>
-						<p class="description">{{post.content | strip_html | truncate: 190 }}</p>
-					</div>
-				</div>
-			</a>
-
+          <a class="nostyle" href="{{site.baseurl}}{{post.url}}">
+            <div class="row cards blog-list rev">
+              <div class="col-md-4 image" style="background-image: url({{site.baseurl}}{{post.image}});">
+              </div>
+              <div class="col-md-8 content">
+                <h3 class="blog-index-title">{{post.title}}</h3>
+                <p class="description">{{post.content | strip_html | truncate: 190 }}</p>
+              </div>
+            </div>
+          </a>
 			{% endfor %}
 		</div>
 		<div class="col-lg-4 blog-sidebar">
