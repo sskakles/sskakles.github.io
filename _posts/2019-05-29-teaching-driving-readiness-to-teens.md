@@ -15,12 +15,17 @@ Community mobility is a necessary part of human independence and socialization. 
 
 Published Source: [AltEdAusin.com - Teaching driving readiness to young teens (author: Missy Bell)](https://www.altedaustin.com/blog/teaching-driving-readiness-to-young-teens){: target="_blank"}
 
+### Addictive typography
 
-<object data="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" width="1000" height="1000" type='application/pdf'></object>
+![Teaching Readiness to Teens](/images/blog-teaching-driving-readiness-to-teens-screenshot.png)
 
+<!--<object data="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" width="1000" height="1000" type='application/pdf'></object>-->
+
+<!--
 <div class="embed-responsive">
   <iframe class="embed-responsive-item" src="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" allowfullscreen></iframe>
 </div>
+-->
 
 <!--
 <div class="embed-responsive embed-responsive-16by9">
