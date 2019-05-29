@@ -1,7 +1,28 @@
-- name: Jane Doe
-  comment: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
-  image: /images/rowan-chestnut-175871-unsplash.jpg
+- name: mk b, 1/29/2016
+  comment:  Missy has a real gift for working with kids- especially those with challenges. We needed an OT that was trained in Sensory Processing Disorder. As we found out, a lot of OTs claim to have that training, but Missy is the real deal. She gets it and she knows how to work with kids to teach them to compensate.
+  image: /images/testimonial-default-avatar.png
   
-- name: John Doe
-  comment: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga distinctio quod velit non ut est, vel doloribus officia eius natus.
-  image: /images/brooke-cagle-274465-unsplash.jpg
+- name: Becky T, 6/18/2015
+  comment: Missy is an outstanding therapist who works extremely hard and puts very individualized and focused approaches into place based on the needs and personality of each child. Missy puts her heart into her work, and cares deeply about the kids she works with.  And she is so thorough in her research and continuing education, always reading and learning and making efforts to stay current on OT practices.
+  image: /images/testimonial-default-avatar.png
+  
+- name: Sam M, 3/12/2015 
+  comment: My daughter has been seeing Missy for over a year and I can say without reservation that she is an excellent occupational therapist! Her passion for her work and the children she works with is a constant in everything she does. As a result, my daughter has made, and continues to make, exceptional progress.
+  image: /images/testimonial-default-avatar.png
+  
+- name: Lauren B, 7/23/2015
+  comment: I can't tell you how thankful we are to have found Missy. She has done WONDERS for our son! Her dedication, patience and understanding have been instrumental in helping my son navigate his emotions and behaviors. Missy was so supportive of our wishes to understand the why's of our son's issues, rather than suggesting we go medicate them away. She has given us all an incredible set of tools to implement at home and at school and she's an over-flowing wealth of knowledge. My son LOVES visiting her and I can tell how much confidence he's built since seeing her. I highly recommend her services!
+  image: /images/testimonial-default-avatar.png
+  
+    
+#- name: Jane Doe
+#  comment: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
+#  image: /images/rowan-chestnut-175871-unsplash.jpg
+#  
+#- name: Jane Doe
+#  comment: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
+#  image: /images/rowan-chestnut-175871-unsplash.jpg
+#  
+#- name: John Doe
+#  comment: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga distinctio quod velit non ut est, vel doloribus officia eius natus.
+#  image: /images/brooke-cagle-274465-unsplash.jpg

@@ -1,3 +1,6 @@
+- name: AOTA-Adolescent
+  image: /images/customers/aota-db-adolescent-driving.png
+
 - name: Cheshire
   image: /images/customers/cheshire-county-hygiene-services.svg
 
