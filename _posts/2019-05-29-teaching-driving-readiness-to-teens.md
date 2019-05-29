@@ -4,8 +4,9 @@ image: /images/driving-readiness-teens.png
 author: Missy
 published: true
 categories: 
-    - life
-    - work
+    - Readiness
+    - Teens
+    - Driving
 layout: post
 ---
 
