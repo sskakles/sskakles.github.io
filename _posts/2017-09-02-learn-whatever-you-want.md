@@ -2,7 +2,7 @@
 title: Learn whatever you want!
 image: /images/perfecto-capucine-758998-unsplash.jpg
 author: john
-published: true
+published: false
 categories: 
     - work
     - projects
