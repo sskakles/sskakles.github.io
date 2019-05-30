@@ -1,20 +1,51 @@
-- name: AOTA-Adolescent
-  image: /images/customers/image2vector.svg
+#- name: AOTA-Adolescent
+#  image: /images/customers/image2vector.svg
+#
+#- name: Cheshire
+#  image: /images/customers/cheshire-county-hygiene-services.svg
+#
+#- name: Crofts
+#  image: /images/customers/crofts-accountants.svg
+#  
+#- name: Fast Banana
+#  image: /images/customers/fast-banana.svg
+#  
+#- name: Space Cube
+#  image: /images/customers/space-cube.svg
+#  
+#- name: Auto Speed
+#  image: /images/customers/auto-speed.svg
+#  
+#- name: Yoga Baby
+#  image: /images/customers/yoga-baby.svg
 
-- name: Cheshire
-  image: /images/customers/cheshire-county-hygiene-services.svg
 
-- name: Crofts
-  image: /images/customers/crofts-accountants.svg
+- name: A
+  image: /images/customers/image2vectorADEDgray.svg
+
+- name: A1
+  image: /images/customers/image2vectorADHDgray.svg
   
-- name: Fast Banana
-  image: /images/customers/fast-banana.svg
-  
-- name: Space Cube
-  image: /images/customers/space-cube.svg
-  
-- name: Auto Speed
-  image: /images/customers/auto-speed.svg
-  
-- name: Yoga Baby
-  image: /images/customers/yoga-baby.svg
+- name: A2
+  image: /images/customers/image2vectorAMSgray.svg
+
+- name: A3
+  image: /images/customers/image2vectorCARFITgray.svg
+
+- name: A4
+  image: /images/customers/image2vectorIM.svg
+
+- name: A5
+  image: /images/customers/image2vectorNBCOTgray.svg
+
+- name: A6
+  image: /images/customers/image2vectorPEDgray.svg
+
+- name: A7
+  image: /images/customers/image2vectorSIPTgray.svg
+
+- name: A8
+  image: /images/customers/image2vectorYOGAgray.svg
+
+
+
