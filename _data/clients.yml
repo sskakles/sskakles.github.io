@@ -1,25 +1,3 @@
-#- name: AOTA-Adolescent
-#  image: /images/customers/image2vector.svg
-#
-#- name: Cheshire
-#  image: /images/customers/cheshire-county-hygiene-services.svg
-#
-#- name: Crofts
-#  image: /images/customers/crofts-accountants.svg
-#  
-#- name: Fast Banana
-#  image: /images/customers/fast-banana.svg
-#  
-#- name: Space Cube
-#  image: /images/customers/space-cube.svg
-#  
-#- name: Auto Speed
-#  image: /images/customers/auto-speed.svg
-#  
-#- name: Yoga Baby
-#  image: /images/customers/yoga-baby.svg
-
-
 - name: A
   image: /images/customers/image2vectorADEDgray.svg
 
@@ -70,6 +48,9 @@
 
 - name: A16
   image: /images/customers/image2vectorLEVEL2.svg
+
+- name: A17
+  image: /images/customers/image2vectorLEVEL3.svg
 
 
 
