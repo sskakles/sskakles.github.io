@@ -14,7 +14,6 @@ layout: post
 
 Bored of the same old website designs? [Avocado theme]({{site.baseurl}}/) presents a unique way to show off your skills on the web.
 
-
 Avocado is a bootstrap based, clean, minimal Jekyll theme.
 
 <a href="#buy-avocado-jekyll-theme" class="btn btn-success">Buy <strike>$25</strike> $19</a>
