@@ -66,7 +66,10 @@
   image: /images/customers/image2vectorILS.svg
 
 - name: A15
-  image: /images/customers/image2vectorLEVEL1.svg.svg
+  image: /images/customers/image2vectorLEVEL1.svg
+
+- name: A16
+  image: /images/customers/image2vectorLEVEL2.svg
 
 
 
