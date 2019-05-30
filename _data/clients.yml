@@ -22,8 +22,8 @@
 - name: A7
   image: /images/customers/image2vectorSIPTgray.svg
 
-- name: A8
-  image: /images/customers/image2vectorYOGAgray.svg
+- name: A8b
+  image: /images/customers/image2vectorYOGAgray2.svg
 
 - name: A10
   image: /images/customers/image2vectorADOLESCENT.svg
@@ -46,5 +46,5 @@
 - name: A17
   image: /images/customers/image2vectorLEVEL3.svg
 
-
-
+- name: A18
+  image: /images/customers/image2vectorNASM.svg
