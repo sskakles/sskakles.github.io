@@ -47,5 +47,23 @@
 - name: A8
   image: /images/customers/image2vectorYOGAgray.svg
 
+- name: A9
+  image: /images/customers/image2vectorDCM3.svg
+
+- name: A10
+  image: /images/customers/image2vectorADOLESCENT.svg
+
+- name: A11
+  image: /images/customers/image2vectorDCM3.svg
+
+- name: A12
+  image: /images/customers/image2vectorVITAL.svg
+
+- name: A13
+  image: /images/customers/image2vectorSTAR.svg
+
+- name: A14
+  image: /images/customers/image2vectorILS.svg
+
 
 
