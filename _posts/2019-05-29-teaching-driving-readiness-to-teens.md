@@ -11,13 +11,14 @@ categories:
 layout: post
 ---
 
-Community mobility is a necessary part of human independence and socialization. While most individuals can use public or private transportation, not everyone can or should drive. As a pediatric occupational therapist, one of the most important and unique roles that I have taken on is facilitating driving readiness...[(click here to view complete contents)](/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf){: target="_blank"}.
+Community mobility is a necessary part of human independence and socialization. While most individuals can use public or private transportation, not everyone can or should drive. As a pediatric occupational therapist, one of the most important and unique roles that I have taken on is facilitating driving readiness <small>[more...](/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf)</small>
 
-Published Source: [AltEdAusin.com - Teaching driving readiness to young teens (author: Missy Bell)](https://www.altedaustin.com/blog/teaching-driving-readiness-to-young-teens){: target="_blank"}
+### Published Source
+[AltEdAusin.com - Teaching driving readiness to young teens](https://www.altedaustin.com/blog/teaching-driving-readiness-to-young-teens)
 
-### Addictive typography
+<!--### Screenshot Link to Published Page-->
 
-![Teaching Readiness to Teens](/images/blog-teaching-driving-readiness-to-teens-screenshot.png)
+![Teaching Readiness to Teens](/images/driving-readiness-teens-screenshot.png)
 
 <!--<object data="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" width="1000" height="1000" type='application/pdf'></object>-->
 
