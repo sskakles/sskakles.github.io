@@ -11,7 +11,7 @@ categories:
 layout: post
 ---
 
-IDEA Drivers Education company owner, Steve Blank, has created what every family needs to consider getting, but they don’t know it yet. What is it? A drill-free training brake. How much does it cost? Well, I’d say it’s priceless, and here’s why.<small>[more...](/docs/new-safe-driving-product-for-families.pdf)</small>
+IDEA Drivers Education company owner, Steve Blank, has created what every family needs to consider getting, but they don’t know it yet. What is it? A drill-free training brake. How much does it cost? Well, I’d say it’s priceless, and here’s why.<small>[Read more...](/docs/new-safe-driving-product-for-families.pdf)</small>
 
 <!--<embed src="/docs/new-safe-driving-product-for-families.pdf" width="1000" height="1000" type="application/pdf"/>-->
 

@@ -11,7 +11,7 @@ categories:
 layout: post
 ---
 
-Driving Readiness for Teens (DRT) Program Outreach & Therapist Training - By Melissa "Missy" Bell, OTR, Owner of Extra Credit! LLC <small> [more...](/docs/drt-outreach-program-lecture-ot-generalize-region-xiii.pptx)</small>
+Driving Readiness for Teens (DRT) Program Outreach & Therapist Training - By Melissa "Missy" Bell, OTR, Owner of Extra Credit! LLC <small> [Read more...](/docs/drt-outreach-program-lecture-ot-generalize-region-xiii.pptx)</small>
 
 <!--<embed src="/docs/new-safe-driving-product-for-families.pdf" width="1000" height="1000" type="application/pdf"/>-->
 

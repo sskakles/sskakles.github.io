@@ -1,41 +1,8 @@
 - name: A
   image: /images/customers/image2vectorADEDgray.svg
 
-- name: A1
-  image: /images/customers/image2vectorADHDgray.svg
-  
-- name: A2
-  image: /images/customers/image2vectorAMSgray.svg
-
-- name: A3
-  image: /images/customers/image2vectorCARFITgray.svg
-
-- name: A4
-  image: /images/customers/image2vectorIM.svg
-
-- name: A5
-  image: /images/customers/image2vectorNBCOTgray.svg
-
-- name: A6
-  image: /images/customers/image2vectorPEDgray.svg
-
-- name: A7
-  image: /images/customers/image2vectorSIPTgray.svg
-
-- name: A8b
-  image: /images/customers/image2vectorYOGAgray2.svg
-
 - name: A10
   image: /images/customers/image2vectorADOLESCENT.svg
-
-- name: A12
-  image: /images/customers/image2vectorVITAL.svg
-
-- name: A13
-  image: /images/customers/image2vectorSTAR.svg
-
-- name: A14
-  image: /images/customers/image2vectorILS.svg
 
 - name: A15
   image: /images/customers/image2vectorLEVEL1.svg
@@ -46,5 +13,41 @@
 - name: A17
   image: /images/customers/image2vectorLEVEL3.svg
 
+- name: A1
+  image: /images/customers/image2vectorADHDgray.svg
+  
+- name: A2
+  image: /images/customers/image2vectorAMSgray.svg
+
+- name: A3
+  image: /images/customers/image2vectorCARFITgray.svg
+
+- name: A5
+  image: /images/customers/image2vectorNBCOTgray.svg
+
+- name: A6
+  image: /images/customers/image2vectorPEDgray.svg
+
+- name: A-3a
+  image: /images/customers/image2vectorCDRS2-No3a.svg
+  
+- name: A13
+  image: /images/customers/image2vectorSTAR.svg
+
 - name: A18
   image: /images/customers/image2vectorNASM.svg
+
+- name: A12
+  image: /images/customers/image2vectorVITAL.svg
+
+- name: A7
+  image: /images/customers/image2vectorSIPTgray.svg
+
+- name: A14
+  image: /images/customers/image2vectorILS.svg
+
+- name: A4
+  image: /images/customers/image2vectorIM.svg
+
+- name: A8b
+  image: /images/customers/image2vectorYOGAgray2.svg

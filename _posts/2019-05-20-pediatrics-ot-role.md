@@ -11,7 +11,7 @@ categories:
 layout: post
 ---
 
-For teenagers, driving is a sort of rite of passage. It indicates transitioning into adulthood and offers a sense of freedom at various times throughout life. Driving usually starts out as fun or cool for most kids but quickly adds to their functional independence. Teens drive to extracurricular school events and work, to hang out with friends, or. <small>[more...](/docs/the-role-of-ot-in-driving-readiness-with-adolescents-most-at-risk.pdf)</small>
+For teenagers, driving is a sort of rite of passage. It indicates transitioning into adulthood and offers a sense of freedom at various times throughout life. Driving usually starts out as fun or cool for most kids but quickly adds to their functional independence. Teens drive to extracurricular school events and work, to hang out with friends, or. <small>[Read more...](/docs/the-role-of-ot-in-driving-readiness-with-adolescents-most-at-risk.pdf)</small>
 
 ### Published Source
 [TherapyFunZone.net - The Role of OT in Driving Readiness with Adolescents...](https://therapyfunzone.net/blog/the-roll-of-ot-in-driving-readiness-with-adolescents-most-at-risk/)

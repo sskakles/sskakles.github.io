@@ -20,8 +20,9 @@ description: Find all about avocado jekyll theme posts here.
         </div>
       </a>
       {% endfor %}
-    </div>
-
+      
+      {% include pagination.html %}  
+    </div>    
 
     <div class="col-lg-4 blog-sidebar">
       <div class="widget widget-newsletter">
@@ -33,7 +34,7 @@ description: Find all about avocado jekyll theme posts here.
           <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
             <div id="mc_embed_signup_scroll">
               <div class="form-group">
-                <label for="mce-EMAIL">Subscribe here for content updates</label>
+                <label for="mce-EMAIL">Subscribe for updates</label>
                 <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Coming Soon..." required="" disabled>
               </div>
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-lg btn-block btn-success">
@@ -56,5 +57,5 @@ description: Find all about avocado jekyll theme posts here.
     </div>
 
   </div>
-  {% include pagination.html %}
+<!--  {% include pagination.html %}-->
 </div>
