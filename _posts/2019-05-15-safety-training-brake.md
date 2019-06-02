@@ -1,6 +1,6 @@
 ---
 title: Safety Training Brake
-image: /images/safety-training-brake.jpg
+image: /images/safety-training-brake_2800_1869.jpg
 author: Missy
 published: true
 comments: true

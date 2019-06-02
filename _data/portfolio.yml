@@ -1,11 +1,6 @@
-#- title: Headphones
-#  category: Concept & Design
-#  image: /images/portfolio/icons8-team-643494-unsplash.jpg
-#  link: /portfolio/
-  
 - title: Hospitals & Clinics
   category: 
-  image: /images/portfolio/hospitals-and-clinics.jpg
+  image: /images/portfolio/hospitals-and-clinics_2800_1867.jpg
   link: /portfolio/hospitals-and-clinics/
 
 - title: Driver Education Lessons
@@ -25,41 +20,11 @@
 
 - title: Useful Tools & Equipment
   category:
-  image: /images/portfolio/useful-tools-and-equipment.jpg
+  image: /images/portfolio/useful-tools-and-equipment_2800_2100.jpg
   link: /portfolio/useful-tools-and-equipment/
 
 - title: Driver Assessment & Training
   category:
-  image: /images/portfolio/driver-assessment-and-training.jpg
+  image: /images/portfolio/driver-assessment-and-training_2800_1867.jpg
   link: /portfolio/driver-assessment-and-training/
 
-
-#- title: Speaker
-#  category: Concept & Design
-#  image: /images/portfolio/marius-masalar-139960-unsplash.jpg
-#  link: /portfolio/
-#
-#- title: Speaker
-#  category: Concept & Design
-#  image: /images/portfolio/marius-masalar-139960-unsplash.jpg
-#  link: /portfolio/
-
-#- title: Banana
-#  category: Photography
-#  image: /images/portfolio/mike-dorner-173502-unsplash.jpg
-#  link: /portfolio/
-#
-#- title: Pantone
-#  category: Photography
-#  image: /images/portfolio/autri-taheri-435297-unsplash.jpg
-#  link: /portfolio/
-
-#- title: Leaf
-#  category: Photography
-#  image: /images/portfolio/agata-create-1098094-unsplash.jpg
-#  link: /portfolio/
-
-#- title: Apartment
-#  category: Photography
-#  image: /images/portfolio/erol-ahmed-255854-unsplash.jpg
-#  link: /portfolio/

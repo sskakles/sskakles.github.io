@@ -35,7 +35,7 @@
   image: /images/customers/image2vectorSTAR.svg
 
 - name: A18
-  image: /images/customers/image2vectorNASM.svg
+  image: /images/customers/image2vectorNASM_400_400.png
 
 - name: A12
   image: /images/customers/image2vectorVITAL.svg

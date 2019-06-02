@@ -1,6 +1,6 @@
 ---
 title: Teaching Readiness to Teens
-image: /images/driving-readiness-teens.png
+image: /images/driving-readiness-teens_1688_1125.png
 author: Missy
 published: true
 comments: true

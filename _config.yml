@@ -57,18 +57,18 @@ include:
     - _pages
 
 # Google Ananlytics Tracker
-analytics: UA-92266803-2  # Sign up with Google analytics and replce with your analytics ID
+#analytics: UA-92266803-2  # Sign up with Google analytics and replce with your analytics ID
 
 #Tawk.to integration
 #tawkto-id: 5cb170e9c1fe2560f3fea30c # Sign up with tawk.to and go to Admin >> Property settings and replace the Site ID here
-tawkto-id: 5cdf2b222846b90c57af1bed # This is our new tawk.to id (sskakles)
+#tawkto-id: 5cdf2b222846b90c57af1bed # This is our new tawk.to id (sskakles)
 
 # Share buttons
-share: yes # Change it to `no` to remove share buttons.
+#share: yes # Change it to `no` to remove share buttons.
 
 
 # Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website. # webjeda-demo
-disqus: missybell-atx
+# disqus: missybell-atx
 
 
 #

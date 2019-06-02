@@ -1,6 +1,6 @@
 ---
 title: Role of Pediatric OT
-image: /images/pediatrcis-ot-role.jpg
+image: /images/pediatrics-ot-role_2800_1867.jpg
 author: Missy
 published: true
 comments: true
@@ -19,4 +19,4 @@ For teenagers, driving is a sort of rite of passage. It indicates transitioning 
 
 <!--### Screenshot Link to Published Page-->
 
-![Teaching Readiness to Teens](/images/pediatrcis-ot-role-screenshot.png)
+![Teaching Readiness to Teens](/images/pediatrics-ot-role-screenshot.png)

@@ -20,7 +20,7 @@
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
 	{% if page.url contains 'blog' %}
 	<!-- Prefetch disqus DNS for faster page speed -->
-	<link rel="dns-prefetch" href="https://{{site.disqus}}.disqus.com/">
+<!--	<link rel="dns-prefetch" href="https://{{site.disqus}}.disqus.com/">-->
 	{% endif %}
 
 	{% if page.url == '/' %}
@@ -28,6 +28,7 @@
 	<link rel="prerender" href="{{site.baseurl}}/contact/" />
 	<link rel="prerender" href="{{site.baseurl}}/about/" />
 	<link rel="prerender" href="{{site.baseurl}}/blog/" />
+	<link rel="prerender" href="{{site.baseurl}}/resources/" />
 	{% endif %}
 
 	{% seo %}
@@ -61,12 +62,14 @@
 	{% include analytics-lite.html %}
 
 	{% endif %}
+<!--
 
 {% if site.enable-mathjax %}
 		<script async
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
 	</script>
 {% endif %}
+-->
 
 {% if site.enable-chartjs %}
 	<script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
@@ -178,12 +181,12 @@
 	{% if page.url == '/' %}
 	<script>
 		$('.carousel-1').owlCarousel({
-			loop: true,
+			loop: false,
 			nav: false,
-			dots: true,
-			autoplay: true,
+			dots: false,
+			autoplay: false,
 			autoplayTimeout: 5000,
-			autoplaySpeed: 3000,
+			autoplaySpeed: 30000,
 			responsive: {
 				0: {
 					items: 1
