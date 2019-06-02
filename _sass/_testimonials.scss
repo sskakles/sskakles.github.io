@@ -18,6 +18,14 @@
 		
 	}
 	
+  .icon::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+  
 	blockquote {
 		/* color: $brand-color; */
 		font-weight: 300;
@@ -28,9 +36,9 @@
 	}
 	
 	blockquote:before {
-		content: "\f10d";
-		font-family: 'Fontawesome';
-//		font-family: 'Font Awesome 5 Free';
+    font-family: "Font Awesome 5 Brands"; 
+//    content: "\f099"; // twitter ico- works
+    content: "\f10d"; // double quote - doesn't work
 		float: left;
 		color: $brand-color;
 		margin-right: 10px;
