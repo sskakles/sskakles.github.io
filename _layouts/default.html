@@ -1,64 +1,66 @@
 ---
 ---
 
-<!DOCTYPE html>  
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
 
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  <!-- Fontawesome Icons Pro Kits (use this instead of CDNs as CDNs are going to be sunset...see docs) -->
   <script src="https://kit.fontawesome.com/d7a5125118.js"></script>
-  
-	<!-- Prefetch DNS for faster page speed -->
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="dns-prefetch" href="//google-analytics.com">
-	<link rel="dns-prefetch" href="//www.google-analytics.com">
-	<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-	<link rel="dns-prefetch" href="//ajax.googleapis.com">
-	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	{% if page.url contains 'blog' %}
-	<!-- Prefetch disqus DNS for faster page speed -->
-<!--	<link rel="dns-prefetch" href="https://{{site.disqus}}.disqus.com/">-->
-	{% endif %}
 
-	{% if page.url == '/' %}
-	<!-- Prerender next pages for faster page speed -->
-	<link rel="prerender" href="{{site.baseurl}}/contact/" />
-	<link rel="prerender" href="{{site.baseurl}}/about/" />
-	<link rel="prerender" href="{{site.baseurl}}/blog/" />
-	<link rel="prerender" href="{{site.baseurl}}/resources/" />
-	{% endif %}
 
-	{% seo %}
+  <!-- Prefetch DNS for faster page speed -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//google-analytics.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+  <link rel="dns-prefetch" href="//ajax.googleapis.com">
+  <link rel="dns-prefetch" href="//fonts.gstatic.com">
+  {% if page.url contains 'blog' %}
+  <!-- Prefetch disqus DNS for faster page speed -->
+  <!--	<link rel="dns-prefetch" href="https://{{site.disqus}}.disqus.com/">-->
+  {% endif %}
 
-	{% if page.layout != 'post' %}
-	<meta property="og:image" content="{{site.url}}{{site.default-image}}" />
-	{% endif %}
+  {% if page.url == '/' %}
+  <!-- Prerender next pages for faster page speed -->
+  <link rel="prerender" href="{{site.baseurl}}/contact/" />
+  <link rel="prerender" href="{{site.baseurl}}/about/" />
+  <link rel="prerender" href="{{site.baseurl}}/blog/" />
+  <link rel="prerender" href="{{site.baseurl}}/resources/" />
+  {% endif %}
 
-	<!-- Custom CSS -->
-	<link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+  {% seo %}
 
-	<!-- Fontawesome Icons CSS -->
-<!--	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
-	
-	<!-- Replace these icons with your own. -->
-	<link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/assets/img/apple-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/assets/img/apple-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/assets/img/apple-icon-152x152.png">
-	<link rel="icon" type="image/png" sizes="192x192" href="{{site.baseurl}}/assets/img/android-icon-192x192.png">
-	<link rel="shortcut icon" href="{{site.baseurl}}/fa.ico" type="image/x-icon">
-	<link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
+  {% if page.layout != 'post' %}
+  <meta property="og:image" content="{{site.url}}{{site.default-image}}" />
+  {% endif %}
 
-	{% if site.analytics %}
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 
-	<!-- Google Analytics code. <head> tag is the right place for analytics code as directed by Google. This is unofficial light version which loads blazing fast! Implemented for faster page load.  -->
-	{% include analytics-lite.html %}
+  <!-- Fontawesome Icons CSS -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-	{% endif %}
-<!--
+  <!-- Replace these icons with your own. -->
+  <link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/assets/img/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/assets/img/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/assets/img/apple-icon-152x152.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{site.baseurl}}/assets/img/android-icon-192x192.png">
+  <link rel="shortcut icon" href="{{site.baseurl}}/fa.ico" type="image/x-icon">
+  <link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
+
+  {% if site.analytics %}
+
+  <!-- Google Analytics code. <head> tag is the right place for analytics code as directed by Google. This is unofficial light version which loads blazing fast! Implemented for faster page load.  -->
+  {% include analytics-lite.html %}
+
+  {% endif %}
+  <!--
 
 {% if site.enable-mathjax %}
 		<script async
@@ -67,184 +69,185 @@
 {% endif %}
 -->
 
-{% if site.enable-chartjs %}
-	<script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
-{% endif %}
+  {% if site.enable-chartjs %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+  {% endif %}
 
 </head>
 
 <body>
-	<div class="loader">
-		<div class="lds-ring">
-			<div></div>
-			<div></div>
-			<div></div>
-			<div></div>
-		</div>
-	</div>
+  <div class="loader">
+    <div class="lds-ring">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
 
-	<div id="top" class="wrapper">
+  <div id="top" class="wrapper">
 
-		{% include navbar.html %}
+    {% include navbar.html %}
 
-		<div class="content-wrapper">
-			{{content}}
-		</div>
+    <div class="content-wrapper">
+      {{content}}
+    </div>
 
-		<a href="#top" class="scrollup"><i class="fas fa-long-arrow-alt-up" aria-hidden="true"></i></a>
-		{% include footer.html %}
-
-
-	</div>
+    <a href="#top" class="scrollup"><i class="fas fa-long-arrow-alt-up" aria-hidden="true"></i></a>
+    {% include footer.html %}
 
 
-
-	<!-- JQuery  -->
-	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
-	<script src="/js/owl.carousel.min.js"></script>
-
-	<!-- Navbar shrink on scroll -->
-	<script>
-		$(window).scroll(function() {
-			if ($(document).scrollTop() > 50) {
-				$('.navbar').addClass('shrink');
-
-			} else {
-
-				$('.navbar').removeClass('shrink');
-			}
-		});
-
-	</script>
+  </div>
 
 
-	<script>
-		$(document).ready(function() {
-			$(window).scroll(function() {
-				if ($(this).scrollTop() > 100) {
-					$('.scrollup').fadeIn();
-				} else {
-					$('.scrollup').fadeOut();
-				}
-			});
 
-			$('.scrollup').click(function() {
-				$("html, body").animate({
-					scrollTop: 0
-				}, 600);
-				return false;
-			});
+  <!-- JQuery  -->
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
-		});
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 
-	</script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-	<!-- SlideDown on click -->
-	<script>
-		$(document).ready(function() {
-			$(".doshow").click(function() {
-				var that = $(this).next('.noshow');
-				$(that).slideToggle('slow');
-				$('.noshow').not(that).slideUp('slow');
-			});
-		});
+  <script src="/js/owl.carousel.min.js"></script>
 
-	</script>
+  <!-- Navbar shrink on scroll -->
+  <script>
+    $(window).scroll(function() {
+      if ($(document).scrollTop() > 50) {
+        $('.navbar').addClass('shrink');
 
-<!-- Hide Loader on load -->
-	<script>
-		$(document).ready(function() {
-			$(".loader").hide();
-		});
-	</script>
+      } else {
+
+        $('.navbar').removeClass('shrink');
+      }
+    });
+
+  </script>
 
 
-	<!-- Reveal items on scroll -->
-	<script type="text/javascript" src="{{site.baseurl}}/js/scrollreveal.min.js"></script>
-	<script>
-		window.sr = ScrollReveal();
-		sr.reveal('.rev', {
-			duration: 1000
-		});
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+          $('.scrollup').fadeIn();
+        } else {
+          $('.scrollup').fadeOut();
+        }
+      });
 
-	</script>
+      $('.scrollup').click(function() {
+        $("html, body").animate({
+          scrollTop: 0
+        }, 600);
+        return false;
+      });
 
-	{% if page.url == '/' %}
-	<script>
-		$('.carousel-1').owlCarousel({
-			loop: false,
-			nav: false,
-			dots: false,
-			autoplay: false,
-			autoplayTimeout: 5000,
-			autoplaySpeed: 30000,
-			responsive: {
-				0: {
-					items: 1
-				},
-				600: {
-					items: 1
-				},
-				1000: {
-					items: 1
-				}
-			}
-		});
+    });
 
-	</script>
+  </script>
 
-	<script>
-		$('.carousel-2').owlCarousel({
-			loop: false,
-			nav: true,
-			dots: true,
-			autoplay: false,
-			autoplayTimeout: 5000,
-			autoplaySpeed: 3000,
-			responsive: {
-				0: {
-					items: 1
-				},
-				600: {
-					items: 1
-				},
-				1000: {
-					items: 1
-				}
-			}
-		});
+  <!-- SlideDown on click -->
+  <script>
+    $(document).ready(function() {
+      $(".doshow").click(function() {
+        var that = $(this).next('.noshow');
+        $(that).slideToggle('slow');
+        $('.noshow').not(that).slideUp('slow');
+      });
+    });
 
-	</script>
+  </script>
 
-	<script>
-		$('.carousel-3').owlCarousel({
-			loop: true,
-			margin: 30,
-			nav: false,
-			dots: false,
-			autoplay: true,
-			autoplayTimeout: 2000,
-			autoplaySpeed: 1000,
-			responsive: {
-				0: {
-					items: 1
-				},
-				600: {
-					items: 2
-				},
-				1000: {
-					items: 4
-				}
-			}
-		});
+  <!-- Hide Loader on load -->
+  <script>
+    $(document).ready(function() {
+      $(".loader").hide();
+    });
 
-	</script>
-	{% endif %}
+  </script>
+
+
+  <!-- Reveal items on scroll -->
+  <script type="text/javascript" src="{{site.baseurl}}/js/scrollreveal.min.js"></script>
+  <script>
+    window.sr = ScrollReveal();
+    sr.reveal('.rev', {
+      duration: 1000
+    });
+
+  </script>
+
+  {% if page.url == '/' %}
+  <script>
+    $('.carousel-1').owlCarousel({
+      loop: false,
+      nav: false,
+      dots: false,
+      autoplay: false,
+      autoplayTimeout: 5000,
+      autoplaySpeed: 30000,
+      responsive: {
+        0: {
+          items: 1
+        },
+        600: {
+          items: 1
+        },
+        1000: {
+          items: 1
+        }
+      }
+    });
+
+  </script>
+
+  <script>
+    $('.carousel-2').owlCarousel({
+      loop: false,
+      nav: true,
+      dots: true,
+      autoplay: false,
+      autoplayTimeout: 5000,
+      autoplaySpeed: 3000,
+      responsive: {
+        0: {
+          items: 1
+        },
+        600: {
+          items: 1
+        },
+        1000: {
+          items: 1
+        }
+      }
+    });
+
+  </script>
+
+  <script>
+    $('.carousel-3').owlCarousel({
+      loop: true,
+      margin: 30,
+      nav: false,
+      dots: false,
+      autoplay: true,
+      autoplayTimeout: 2000,
+      autoplaySpeed: 1000,
+      responsive: {
+        0: {
+          items: 1
+        },
+        600: {
+          items: 2
+        },
+        1000: {
+          items: 4
+        }
+      }
+    });
+
+  </script>
+  {% endif %}
 </body>
 
 </html>

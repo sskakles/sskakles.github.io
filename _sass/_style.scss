@@ -354,9 +354,13 @@ footer {
     font-weight: 300;
     color: #aaa;
     font-size: $base-fs * 0.7;    
-    line-height: 1.3;
-    
+    line-height: 1.3;    
   }
+  
+  div .see-all li a {
+    color: #ddd;
+    font-weight: bolder;
+  }  
   
 }
 
