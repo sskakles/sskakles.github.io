@@ -11,7 +11,7 @@ categories:
 layout: post
 ---
 
-Visual/Vestibular In-Service Training - By Melissa "Missy" Bell, OTR For Language & Movement Inc. April 2012 <small> [more...](/docs/visual-vestibular-presentation.pptx)</small>
+Visual/Vestibular In-Service Training - By Melissa "Missy" Bell, OTR For Language & Movement Inc. April 2012 <small> [Read more...](/docs/visual-vestibular-presentation.pptx)</small>
 
 <!--<embed src="/docs/new-safe-driving-product-for-families.pdf" width="1000" height="1000" type="application/pdf"/>-->
 
