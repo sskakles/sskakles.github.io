@@ -67,8 +67,8 @@ tawkto-id: 5cdf2b222846b90c57af1bed # This is our new tawk.to id (sskakles)
 share: yes # Change it to `no` to remove share buttons.
 
 
-# Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website.
-disqus: missybell-atx #webjeda-demo
+# Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website. # webjeda-demo
+disqus: missybell-atx
 
 
 #
