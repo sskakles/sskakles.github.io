@@ -59,29 +59,33 @@ description: Bored of the same old website designs? Avocado jekyll theme present
         </div>
       </div>
       <div class="row align-items-center justify-content-center">
-        <div class="col-md-3 individual">
-          <img width="152" height="152" class="rounded-circle" src="/images/author-image.jpg" alt="">
-          <!--        <img width="100" height="100" class="team-image rounded-circle" src="/images/author-image.jpg" alt="">-->
-          <h4 class="name">Melissa "Missy" Bell</h4>
-          <p class="position"><small>Founder / Owner</small></p>
-          <ul class="team-social">
-            {% if site.author.linkedin %}
-            <li><a target="_blank" href="{{site.author.linkedin}}"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
-            {% endif %}
-<!--
-            {% if site.author.facebook %}
-            <li><a target="_blank" href="{{site.author.facebook}}"><i class="fas fa-facebook-official" aria-hidden="true"></i></a></li>
-            {% endif %}
--->
-
-            <!--					<li><a href=""><i class="fa fa-twitter-square fa"></i></a></li>-->
-            <!--
-					<li><a href="https://www.facebook.com/missybell.atx"><i class="fa fa-facebook-official fa"></i></a></li>
-					<li><a href="https://www.linkedin.com/in/melissabellatx/"><i class="fa fa-linkedin-square fa"></i></a></li>
--->
-
-          </ul>
-        </div>
+        <a target="_blank" href="{{site.author.linkedin}}"><div class="col-md-3 individual">
+            <img width="152" height="152" class="rounded-circle" src="/images/author-image.jpg" alt="">
+            <!--        <img width="100" height="100" class="team-image rounded-circle" src="/images/author-image.jpg" alt="">-->
+            
+            
+            <h4 class="name">{{site.title}}</h4>
+            <p class="position"><small>{{site.title-creds}}</small></p>
+<!--            <p class="position"><small>Founder / Owner</small></p>-->
+            <ul class="team-social">
+              {% if site.author.linkedin %}
+              <li><a target="_blank" href="{{site.author.linkedin}}"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+              {% endif %}
+          <!--
+              {% if site.author.facebook %}
+              <li><a target="_blank" href="{{site.author.facebook}}"><i class="fas fa-facebook-official" aria-hidden="true"></i></a></li>
+              {% endif %}
+          -->
+          
+              <!--					<li><a href=""><i class="fa fa-twitter-square fa"></i></a></li>-->
+              <!--
+                    <li><a href="https://www.facebook.com/missybell.atx"><i class="fa fa-facebook-official fa"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/melissabellatx/"><i class="fa fa-linkedin-square fa"></i></a></li>
+          -->
+          
+            </ul>
+          </img>
+          </div></a>
 
       </div>
     </div>
