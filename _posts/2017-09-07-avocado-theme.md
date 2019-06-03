@@ -4,7 +4,7 @@ image: /images/thought-catalog-620865-unsplash.jpg
 description: Health Wellness Professional - Management, Educator, Innovator, Occupational Therapist, Pediatrics, Safe Driving.
 buy-link: https://pages.razorpay.com/avocado
 author: Missy
-published: true
+published: false
 categories:
     - work
 layout: post
