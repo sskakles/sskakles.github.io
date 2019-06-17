@@ -5,14 +5,13 @@
 <html lang="en">
 
 <head>
-
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!-- Fontawesome Icons Pro Kits (use this instead of CDNs as CDNs are going to be sunset...see docs) -->
-  <script src="https://kit.fontawesome.com/d7a5125118.js"></script>
 
+  <!-- Fontawesome Icons Pro Kits (use this instead of CDNs which are going to be sunset...see docs) -->
+  <script src="https://kit.fontawesome.com/d7a5125118.js"></script>
 
   <!-- Prefetch DNS for faster page speed -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -46,28 +45,26 @@
   <!-- Fontawesome Icons CSS -->
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/favicon-16x16.png">
-<link rel="manifest" href="{{site.baseurl}}/site.webmanifest">
-<link rel="mask-icon" href="{{site.baseurl}}/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="theme-color" content="#ffffff">
- 
-<link rel="icon" type="image/png" sizes="512x512" href="{{site.baseurl}}/assets/img/android-chrome-512x512.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/favicon-16x16.png">
+  <link rel="manifest" href="{{site.baseurl}}/site.webmanifest">
+  <link rel="mask-icon" href="{{site.baseurl}}/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
 
-<link rel="shortcut icon" href="{{site.baseurl}}/android-chrome-512x512.png" type="image/png" sizes="512x512">
-<link rel="icon" href="{{site.baseurl}}/android-chrome-512x512.png" type="image/png" sizes="512x512">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{site.baseurl}}/assets/img/android-chrome-512x512.png">
 
-  
+  <link rel="shortcut icon" href="{{site.baseurl}}/android-chrome-512x512.png" type="image/png" sizes="512x512">
+  <link rel="icon" href="{{site.baseurl}}/android-chrome-512x512.png" type="image/png" sizes="512x512">
+
+
   {% if site.analytics %}
-
   <!-- Google Analytics code. <head> tag is the right place for analytics code as directed by Google. This is unofficial light version which loads blazing fast! Implemented for faster page load.  -->
   {% include analytics-lite.html %}
-
   {% endif %}
-  <!--
 
+  <!--
 {% if site.enable-mathjax %}
 		<script async
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
@@ -78,7 +75,6 @@
   {% if site.enable-chartjs %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
   {% endif %}
-
 </head>
 
 <body>
@@ -92,7 +88,6 @@
   </div>
 
   <div id="top" class="wrapper">
-
     {% include navbar.html %}
 
     <div class="content-wrapper">
@@ -101,11 +96,7 @@
 
     <a href="#top" class="scrollup"><i class="fas fa-long-arrow-alt-up" aria-hidden="true"></i></a>
     {% include footer.html %}
-
-
   </div>
-
-
 
   <!-- JQuery  -->
   <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -127,7 +118,6 @@
         $('.navbar').removeClass('shrink');
       }
     });
-
   </script>
 
 
@@ -149,7 +139,6 @@
       });
 
     });
-
   </script>
 
   <!-- SlideDown on click -->
@@ -161,7 +150,6 @@
         $('.noshow').not(that).slideUp('slow');
       });
     });
-
   </script>
 
   <!-- Hide Loader on load -->
@@ -169,7 +157,6 @@
     $(document).ready(function() {
       $(".loader").hide();
     });
-
   </script>
 
 
@@ -180,7 +167,6 @@
     sr.reveal('.rev', {
       duration: 1000
     });
-
   </script>
 
   {% if page.url == '/' %}
@@ -204,7 +190,6 @@
         }
       }
     });
-
   </script>
 
   <script>
@@ -227,7 +212,6 @@
         }
       }
     });
-
   </script>
 
   <script>
@@ -251,7 +235,6 @@
         }
       }
     });
-
   </script>
   {% endif %}
 </body>
