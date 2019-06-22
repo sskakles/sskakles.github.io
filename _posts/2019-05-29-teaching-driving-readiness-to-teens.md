@@ -19,21 +19,3 @@ Community mobility is a necessary part of human independence and socialization. 
 <!--### Screenshot Link to Published Page-->
 
 ![Teaching Readiness to Teens](/images/driving-readiness-teens-screenshot.png)
-
-<!--<object data="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" width="1000" height="1000" type='application/pdf'></object>-->
-
-<!--
-<div class="embed-responsive">
-  <iframe class="embed-responsive-item" src="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" allowfullscreen></iframe>
-</div>
--->
-
-<!--
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
-</div>
--->
-
-<!--<embed src="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" width="1000" height="1000" type="application/pdf"/>-->
-
-<!--<embed src="https://sskakles.github.io//docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" type="application/pdf"/>-->
