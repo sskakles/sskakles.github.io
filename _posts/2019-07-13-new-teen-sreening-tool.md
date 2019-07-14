@@ -58,7 +58,7 @@ Next, it is up to the states. States are allowed to pick and choose from the rec
 
 We are also working to educate physicians and schools about the need to refer earlier. For some reason, Doctor’s are often avoidant of any driving related conversations. Schools probably don’t refer because they might have to pay for services they can’t provide. Regardless, you should always bring up your driving questions to PCP’s and school therapists. 
 
-Payer problems is the most difficult issue and we all face it. My advice is pretty simple when it comes to helping children. As caregivers we must not look at price as in dollar signs, but cost as in how much would added prevention towards avoidable damages or accidents be worth? 
+Payer problems are the most difficult issue and we all face it. My advice is pretty simple when it comes to helping children. As caregivers we must not look at price as in dollar signs, but cost as in how much would added prevention towards avoidable damages or accidents be worth? 
 
 For assistance with regard to any student in question, please reach out to me. 
 
