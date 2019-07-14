@@ -27,7 +27,7 @@ any functional deficit or condition that significantly impairs an individual’s
 
 Other medical fitness-to-drive impressions are made after examining the medical history and by doing a clinical assessment process which could include behind the wheel safe driving evaluation. Driving fitness might be impaired if the child has a startle response or progressive condition. Other reasons fitness-to-drive might be impaired for a teen could be related to significant attention or processing challenges. There are many factors that relate to fitness-to-drive and they are not always apparent prior to driving age. 
 
-To help screen Fitness to Drive with Teens, I created the Adolescent-Fitness-to-Drive-Safe (AFTDS) Screener for OT's and caregivers. 
+> <small>To help screen fitness-to-drive with Teens, I created the Adolescent-Fitness-to-Drive-Safe (AFTDS) Screener for OT's and caregivers. </small>
 
 Readiness-to-drive generally relates to a student's level of safety/judgment and independence with life skills that should take precedence over driving such as self-care and home management tasks. Furthermore, due to the complexities of driving, if a student is struggling with a readiness level task, he or she will be more dangerous behind the wheel. General readiness-to-drive is usually pretty evident. However, readiness-to-drive-safe impressions are a bit more challenging. For example, there are plenty of teens I work with who are decent new drivers. They will pass the road test and they will still be at risk to drive safe. This is because all new drivers are inexperienced. Any young and novice driver when presented an entirely new tactical or strategic level stressor is bound to make a poor decision. 
 
