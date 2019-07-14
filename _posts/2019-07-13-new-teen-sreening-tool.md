@@ -90,7 +90,7 @@ It’s an expansion of Susan Pierce’s work. It’s also more affordable, can b
 
 Presently, there is no OT “degree” of DRS. Through AOTA you can become specialty certified in this area. To learn more about DRS vs. CDRS distinctions, visit ADED. Becoming a member is suggested as it provides many useful benefits for new field practitioners. For example, there is a mentor program, specialty groups, and start-up tool kit. 
 
-When it comes to assessment, the above mentioned training routes will teach you the most. But you should know there aren’t many choices for driving tests for students outside of what you already use in pediatric OT. The positive here is it leaves room for us as OT professionals to make clinical reasoning about driving potential. Thankfully, this is part of best-practice guidelines already. 
+When it comes to assessment, the above mentioned training routes will teach you the most. But you should know there aren’t many choices for standardized driving tests for students outside of what you already use in pediatric OT. The positive here is it leaves room for us as OT professionals to make clinical reasoning about driving potential. Thankfully, this is part of best-practice guidelines already. 
 
 Common pediatric standardized measures can be used in clinical assessment of motor, perceptual and sensory functions. To some degree, this is helpful because clients can probably get this part of a clinical assessment covered by insurance. 
 
@@ -125,7 +125,7 @@ If you are a pediatric OT generalist or interested in this field, feel free to r
 
 <br>
 
-### HELPFUL RESOURCES
+## HELPFUL RESOURCES
 
 Learn more about Dr. Monahan and her work at:
 - [https://www.driverrehabinstitute.org/about.html](https://www.driverrehabinstitute.org/about.html)
