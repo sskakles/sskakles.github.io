@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 description: I care about my readers' opinions. Please leave a note or just say hello.
+blahblah: testing
 ---
 
 <div class="team-container">
@@ -11,31 +12,33 @@ description: I care about my readers' opinions. Please leave a note or just say 
       {% include breadcrumbs.html %}
     </div>
   </div>
-<div class="team nobull">
+  <div class="team nobull">
     <div class="row">
       <div class="col-md-6">
         <h2 class="double-u">Send me a message</h2>
-        <!--		<p>I care about my readers' opinion. Please leave a note or just say hello.</p>-->
-        <p>I’d love to hear from you!</p>
+        <!--<p>I care about my readers' opinion. Please leave a note or just say hello.</p>-->
+        <!--        <p>I’d love to hear from you!</p>-->
+<!--        <p>{{ page.blahblah }}</p>-->
         <p>Whether you have a question about my services, general inquires, or anything else, I'd be happy to answer any questions you might have.</p>
         <p>Either send me a direct message using the provided form or reach out to me via the following contact channels.</p>
-    
+
         <h2 class="double-u">Contact Info</h2>
         <li>Email:<a href="mailto:{{site.email}}"> {{site.email}}</a></li>
         <li><span>Phone:</span><a href="tel:{{site.phone}}"> {{site.phone}}</a></li>
-    
+
       </div>
+      
       <div class="col-md-6">
         <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
           <input type="email" name="email" placeholder="Email Address">
-          <textarea type="text" name="content" rows="6" placeholder="Message"></textarea>
+          <textarea type="text" name="content" rows="7" placeholder="Message"></textarea>
           <input type="hidden" name="_next" value="/thanks">
-          <input type="hidden" name="_subject" value="New Contact Form Submission">
-          <input type="text" name="_gotcha" style="display:none">
+          <input type="hidden" name="_subject" value="New Inquiry Form Submission">
+          <!--          <input type="text" name="_gotcha" style="display:none">-->
           <input class="btn" type="submit" value="Submit">
         </form>
       </div>
-    
+
     </div>
   </div>
 

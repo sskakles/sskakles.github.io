@@ -38,8 +38,7 @@ enable-mathjax: yes
 
 # Charts
 enable-chartjs: yes
-
-
+  
 # This defines how the URLs should look like
 permalink: /blog/:title/
 

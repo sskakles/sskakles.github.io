@@ -40,7 +40,9 @@ This layout is used for posts. Changing anything here will affect all posts(not 
 					<div class="col-md-12">
 
 						<article>
-							{% include toc.html html=content class="toc.rev.clearfix" %}
+						{% include toc.html html=content sanitize=true class="toc.rev.clearfix" id="my_toc" h_min=1 h_max=2 %}
+
+<!--							{% include toc.html html=content class="toc.rev.clearfix" %}-->
 							{{content}}
 						</article>
 						{% if site.share %}

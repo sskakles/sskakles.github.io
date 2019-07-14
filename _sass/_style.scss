@@ -16,7 +16,9 @@ a.nostyle {
     }
 }
 
-
+input, textarea {  
+  font-weight: 300 !important;
+}
 
 .bg-primary {
 	background: lighten($brand-color, 10%) !important;
@@ -25,8 +27,6 @@ a.nostyle {
 .rev {
     visibility: hidden;
 }
-
-
 
 
 .btn, [class*="btn-"] {
@@ -311,6 +311,11 @@ section {
 
 .fa-arrow-right {
     opacity: 0.8;
+}
+
+.fa-lock-alt {
+  color: $brand-color !important;
+  margin-right: .5em;
 }
 
 
