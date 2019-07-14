@@ -1,20 +1,22 @@
 ---
-title: New Teen Screening Tool - Parts I & II
+title: New Teen Screening Tools
 image: /images/new-teen-screening-tool_2800_1854.jpg
 author: Missy
 published: true
 comments: true
 categories: 
     - Readiness
+    - Fitness-To-Drive
     - Teens
-    - Driving
-    - Screening
-    - Tool
+    - Young Adults
+    - Driving Fitness
+    - Screening Tool
+    - Research
 layout: post
 ---
 
 
-# Part I - For Parents
+# For Parents
 
 ###### Fitness to Drive & Other Factors with Teens/Special Population Young Adults: Perspectives from a Specialist in the Field for Parents or Caregivers
 
@@ -34,7 +36,7 @@ Readiness-to-drive generally relates to a student's level of safety/judgment and
 
 Potential-to-drive factors tend to additional factors such as driving goals. For example, a person may have better potential-to-drive impressions if the family has decided to invest extra time and energy into a driver education plan and process. Potential-to-drive could also be influenced by driving decisions. For example, potential-to-drive safety could be impacted for a child with ADHD, Anxiety, or Seizure history who takes medication. The medication could, itself, enhance or reduce safe driving. 
 
-> To improve potential to drive, my OT/DRS approach is to create an Individualized Driving Plan (IDP) with each student level of readiness/fitness and family system objectives in mind. If driving is not the best choice, an action plan is devised. Students will more independence in community mobility or access to gain social capital will have better well-being.  
+> <small>To improve potential to drive, my OT/DRS approach is to create an Individualized Driving Plan (IDP) with each student level of readiness/fitness and family system objectives in mind. If driving is not the best choice, an action plan is devised. Students will more independence in community mobility or access to gain social capital will have better well-being.</small>
 
 On a student and family’s journey towards a safe mobility and independence plan, it is recommended to work with an Occupational Therapist (OT). Using an Occupational Profile, the OT will look at what the concerns and goals are as well as what are supporting and limiting factors. The OT will perform an individualized assessment and create a plan of care with recommended treatment frequency, duration, approaches and objectives. 
 
@@ -60,9 +62,9 @@ Payer problems is the most difficult issue and we all face it. My advice is pret
 
 For assistance with regard to any student in question, please reach out to me. 
 
-# Part II - For OT's
+# For OT's
 
-###### Pediatrics & Driving Rehabilitation: My Path, Where I’m Going, & Helpful Tips for Other OT’s 
+###### Pediatrics & Driving Rehabilitation: My Path, Where I’m Going, & Helpful Tips and Tools for Other OT’s 
 
 Professionals in the highly specialized field of Pediatric Occupational Therapy Driving Rehabilitation practice can tell you that certain medical conditions and other risk factors can make driving much more difficult and risky than what the average student faces. But how do you find us? That is a difficult question. We are a rare breed. 
 
@@ -104,12 +106,13 @@ I have reached out in many people in many ways and will continue to do so to get
 
 For now, I’ve decided to grab the wheel and create some new screeners for my own program use. I’d be glad to share them with fellow colleagues who would like to help me with some very simple field research. It’s going to be a work in progress of course, but here is what I have created and why. 
 
-To help assess “readiness to drive” I have made a tool useful for both OT practitioners and caregivers. It is called the **Readiness-To-Drive-Safe (RTDS) Screener**. I have created this because there isn’t currently an informal assessment like it which is specifically applicable to potential young drivers. I believe it can be used with a variety of teens with or without added risk from a medical condition and for a variety of purposes. 
+> <small>To help assess “readiness to drive” I have made a tool useful for both OT practitioners and caregivers. It is called the **Readiness-To-Drive-Safe (RTDS) Screener**. I have created this because there isn’t currently an informal assessment like it which is specifically applicable to potential young drivers. I believe it can be used with a variety of teens with or without added risk from a medical condition and for a variety of purposes. </small>
 
 I can tell you that as a regular driving education instructor, most "normal" students are not fully prepared for what safe driving preparedness takes. Those of you who are parents of new drivers also know this. It will be important for anyone using this tool to assess the individual strengths/weaknesses of any student interested in driving as a future goal. If driving is not recommended as the safest choice, the tool can still be used to measure progress in a variety of skills helpful for safer and more independent living and community access. 
 
-For “driving fitness” for students at risk who have already obtained a permit or license, I have created a separate safety/risk identification tool. It is called the **Adolescent-Fitness-To-Drive-Safe (AFTDS) Screener**. My intention with this tool is to help caregivers, and instructors working under guidance of an OT/DRS better identify safety concerns and know how best to approach or modify driver training. It is it will be used in conjunction with the RTDS and additional safe driving risk tracking measures such as a driving lesson note taking template for instructors. 
-
+> <small>For “driving fitness” for students at risk who have already obtained a permit or license, I have created a separate safety/risk identification tool. It is called the **Adolescent-Fitness-To-Drive-Safe (AFTDS) Screener**. My intention with this tool is to help caregivers, and instructors working under guidance of an OT/DRS better identify safety concerns and know how best to approach or modify driver training. It is it will be used in conjunction with the RTDS and additional safe driving risk tracking measures such as a driving lesson note taking template for instructors. 
+  </small>
+  
 My goal is to help make informal screening tools like these (or something bigger and better through grant-funding and support) easily accessible and low cost (if not free) to everyone while supporting needed research in the fields of occupational therapy driving rehabilitation and driver education. Please contact Missy Bell via www.safedrivingrehab.com for project planning if you would like to collaborate with or help support similar efforts with assistance in research or funding. 
 
 At this time the RTDS and AFTDS screeners are free through [www.safedrivingrehab.com](https://www.safedrivingrehab.com). To copy them in full or in part for your own use or to obtain the necessary scoring and impressions forms you must contact me for permissions. 
@@ -124,7 +127,8 @@ If you are a pediatric OT generalist or interested in this field, feel free to r
 
 ### HELPFUL RESOURCES
 
-Learn more about Dr. Monahan and her work at [https://www.driverrehabinstitute.org/about.html](https://www.driverrehabinstitute.org/about.html)
+Learn more about Dr. Monahan and her work at:
+- [https://www.driverrehabinstitute.org/about.html](https://www.driverrehabinstitute.org/about.html)
 
 For OT/DRS training or certification in Driving Rehab Therapy, check out the following:
 - [https://adaptivemobility.com/occupational-therapy-education](https://adaptivemobility.com/occupational-therapy-education/)
@@ -133,11 +137,14 @@ For OT/DRS training or certification in Driving Rehab Therapy, check out the fol
 For more information about Teen driving and coursework via AOTA refer to:
 - [https://www.aota.org/Practice/Children-Youth/Youth-Transportation](https://www.aota.org/Practice/Children-Youth/Youth-Transportation.aspx)
 
-OT-PAD: [Occupational Therapy - Performance Appraisal for Driving (OT-PAD)](https://ecu.az1.qualtrics.com/jfe/form/SV_2sYZ4pWzSkS7aPX?Q_JFE=qdg)
+For another simple and helpful tool check out OT-PAD: 
+- [Occupational Therapy - Performance Appraisal for Driving (OT-PAD)](https://ecu.az1.qualtrics.com/jfe/form/SV_2sYZ4pWzSkS7aPX?Q_JFE=qdg)
 
-FTDS: [Fitness-to-Drive Screening Measure Online](http://fitnesstodrive.phhp.ufl.edu/us/)
+For screening fitness of aging adults go to the FTDS: 
+- [Fitness-to-Drive Screening Measure Online](http://fitnesstodrive.phhp.ufl.edu/us/)
 
-Davis, E. S., & Dickerson, A. (2017). OT-DRIVE: Integrating the IADL of driving and community
-mobility into routine practice. OT Practice, 22(13), 8–14.
+Learn more about professional distinctions and become a supporting member at ADED: 
+- [https://www.aded.net/general/custom.asp?page=230](https://www.aded.net/general/custom.asp?page=230)
 
-ADED: [https://www.aded.net/general/custom.asp?page=230](https://www.aded.net/general/custom.asp?page=230)
+AOTA members can refer to the OT-DRIVE model at:
+- [OT-DRIVE: Integrating the IADL of Driving and Community Mobility Into Routine Practice](https://www.aota.org/publications-news/otp/archive/2017/07-24-17-drivers-education/driving-community-mobility-routine-practice.aspx)
