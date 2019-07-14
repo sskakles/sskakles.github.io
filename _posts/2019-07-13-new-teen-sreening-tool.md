@@ -68,7 +68,7 @@ For assistance with regard to any student in question, please reach out to me.
 
 Professionals in the highly specialized field of Pediatric Occupational Therapy Driving Rehabilitation practice can tell you that certain medical conditions and other risk factors can make driving much more difficult and risky than what the average student faces. But how do you find us? That is a difficult question. We are a rare breed. 
 
-In the state of Texas, where more teens are sadly killed driving than in any other state, I am somehow the only pediatric OT specialist currently working on driving. Thank goodness there are a few other OT/DRS or CDRS’s serving kids here in Texas and across the country but, again, few of us come from a pediatric specialty background. 
+In the state of Texas, where more teens are sadly killed driving than in any other state, I am somehow the only pediatric OT specialist currently working on driving. Thank goodness there are other OT/DRS or CDRS’s serving kids here in Texas and across the country but, again, few of us come from a pediatric specialty background. 
 
 You should know I also happen to be a driving instructor for DE.com. I highly advise any OT wanting to do this work get experience as a regular driving ed instructor. It will help you build important skills and give you a sense of what typical new drivers experience as the norm. Also, I think this is the way of the future. I know several DRS/CDRS OT’s working for driving schools across the country in some capacity and I am trying to do the same by proposing a remedial driving program and safety referral process for this school.
 
