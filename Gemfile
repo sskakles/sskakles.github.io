@@ -2,8 +2,11 @@ source "https://rubygems.org"
 #ruby RUBY_VERSION
 
 # This will help ensure the proper Jekyll version is running.
-gem "jekyll", "3.8.6"
+#gem "jekyll", "3.8.6"
+gem "jekyll", github: "jekyll/jekyll"
 
+gem "jekyll-include-cache"
+gem "liquid-c"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"

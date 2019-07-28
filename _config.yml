@@ -99,7 +99,7 @@ destination: _avocado
 
 exclude:
     - .git
-
+    - .jekyll-cache
 
 # These plugins are supported by github by default and can be installed locally using ruby gems
 plugins:
