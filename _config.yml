@@ -12,7 +12,7 @@
 # Footer stuff here....TODO (sskakles) get this to replicate elsewhere
 title: Melissa "Missy" Bell 
 title-min: Missy Bell
-title-creds: OTR, DRS, CDI, CPT
+title-creds: OTR, DRS, LDI, CPT
 #title.creds: "OTR, DRS, CDI, CPT"
 description: Safe Driving and Rehabilitation
 email: missybell.atx@gmail.com # The contact form submission will be done to this email address.
@@ -48,7 +48,7 @@ paginate_path: /blog/page:num/
 
 # Define titles for the sections
 name: Melissa "Missy" Bell
-projects: All things OTR, DRS, CDI, and CPT
+projects: All things OTR, DRS, LDI, and CPT
 
 
 # Jekyll will read contents inside _pages only if we tell it to
