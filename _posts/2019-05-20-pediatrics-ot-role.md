@@ -6,7 +6,7 @@ published: true
 comments: true
 categories: 
     - Readiness
-    - Pediatrcis
+    - Pediatrics
     - Driving
 layout: post
 ---
