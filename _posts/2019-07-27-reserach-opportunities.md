@@ -36,6 +36,6 @@ One important thing to realize before using any of these screening tools is that
 
 Thank you for your participation and support. 
 
-If you would like to arrange a professional in-service related to the new screening tools and research opportunities, please reach out. 
+If you would like to arrange a professional in-service related to the new screening tools and research opportunities, please reach out to me. 
 
 -Missy Bell
