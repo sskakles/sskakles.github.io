@@ -94,11 +94,19 @@
 .portfolio__project__preview,
 .portfolio__project__description {
 	transition: all 600ms ease;
+  -webkit-transition: -webkit-transform all 600ms ease;
+  -moz-transition: transform all 600ms ease;
+  -o-transition: transform all 600ms ease; 
 }
 
 .portfolio__project:hover .portfolio__project__description {
 	transform: translateY(-100%);
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);    
 }
+
 .portfolio__project:hover .portfolio__project__preview {
 	/* transform: translateY(-2.5em); */
 }
