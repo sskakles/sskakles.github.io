@@ -27,9 +27,6 @@
 
 - name: A6
   image: /images/customers/image2vectorPEDgray.svg
-
-- name: A-3a
-  image: /images/customers/image2vectorCDRS2-No3a.svg
   
 - name: A13
   image: /images/customers/image2vectorSTAR.svg
