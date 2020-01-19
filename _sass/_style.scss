@@ -381,7 +381,6 @@ footer {
     color: #ddd;
     font-weight: bolder;
   }  
-  
 }
 
 .categories-page {
@@ -707,10 +706,13 @@ main {
 			padding: 10px;
 		}
 
-		p {
+    p {
 			font-size: $base-fs * 0.8;
-		}
-	}
+      }
+    li {
+      font-size: $base-fs * 0.8;
+    }
+  }
 }
 
 .biz-card {
