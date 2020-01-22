@@ -18,5 +18,4 @@ For teenagers, driving is a sort of rite of passage. It indicates transitioning 
 
 
 <!--### Screenshot Link to Published Page-->
-
-![Teaching Readiness to Teens](/images/pediatrics-ot-role-screenshot.png)
+[ ![Teaching Readiness to Teens](/images/pediatrcis-ot-role-screenshot.png)](https://therapyfunzone.net/blog/the-roll-of-ot-in-driving-readiness-with-adolescents-most-at-risk/)
