@@ -11,7 +11,7 @@ categories:
 layout: post
 ---
 
-Sensory Processing Defined, The neurological process that organizes sensation from one’s own body and the environment, thus making it possible to use the body effectively within the environment<small>[Read more...](/docs/sensory-processing-spd-and-si.pptx)</small>
+Sensory Processing Defined, The neurological process that organizes sensation from one’s own body and the environment, thus making it possible to use the body effectively within the environment <small>[Read more...](/docs/sensory-processing-spd-and-si.pptx)</small>
 
 <!--<embed src="/docs/new-safe-driving-product-for-families.pdf" width="1000" height="1000" type="application/pdf"/>-->
 
