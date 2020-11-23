@@ -12,7 +12,7 @@
 # Footer stuff here....TODO (sskakles) get this to replicate elsewhere
 title: Melissa "Missy" Bell 
 title-min: Missy Bell
-title-creds: OTR, DRS, LDI, CPT
+title-creds: OTR, CDRS, LDI, CPT
 #title.creds: "OTR, DRS, CDI, CPT"
 description: Safe Driving and Rehabilitation
 email: missy@safedrivingrehab.com # The contact form submission will be done to this email address.
@@ -23,7 +23,7 @@ default-image: /images/steering-wheel.png #/images/avocado-cover.png # This imag
 # Author details shows up at the end of every article/blog
 author:
     name: Melissa "Missy" Bell
-    bio: "Missy is a licensed Occupational Therapist and Driving Rehabilitation Specialist with pediatric and driving rehabilitation experience since 2001. She owned and operated a Driving Readiness Program for Teens as a part of her specialty OT/Educational Support Services clinic, Extra Credit! LLC. <br/><br/>Missy is advancing her skills through mentorship and advanced education to work with additional populations and for certification in the field. She has obtained AOTA driving badges in adolescent driving, and adult driving and community mobility levels I, II, III and is a CarFit OT technician. Missy is an ADED member and part of a task force working to improve a national safe driving standards for teens with special needs."
+    bio: "Missy is a licensed Occupational Therapist and Certified Driving Rehabilitation Specialist with pediatric and driving rehabilitation experience since 2001. She owned and operated a Driving Readiness Program for Teens as a part of her specialty OT/Educational Support Services clinic, Extra Credit! LLC. <br/><br/>Missy is advancing her skills through mentorship and advanced education to work with additional populations and for certification in the field. She has obtained AOTA driving badges in adolescent driving, and adult driving and community mobility levels I, II, III and is a CarFit OT technician. Missy is an ADED member and part of a task force working to improve a national safe driving standards for teens with special needs."
     image: author-image.png # Choose a 200x200px image and place it inside /images directory.
     #facebook: https://www.facebook.com/missybell.atx
     #twitter: https://twitter.com
