@@ -1,4 +1,7 @@
 - name: A
+  image: /images/customers/cdrs.svg
+
+- name: A1
   image: /images/customers/image2vectorADEDgray.svg
 
 - name: A10
