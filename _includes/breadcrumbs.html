@@ -1,5 +1,5 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-<ul class="breadcrumbs rev">
+<ul class="breadcrumbs">
 	<li><a href="{{site.baseurl}}/">Home</a></li>
 	{% for crumb in crumbs offset: 1 %}
 	{% if forloop.last %}
