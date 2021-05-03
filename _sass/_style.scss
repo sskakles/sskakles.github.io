@@ -691,7 +691,7 @@ main {
 
 }
 .content-wrapper {
-	min-height: 600px;
+	min-height: 300px;
 	 // margin-top: 100px;
 	@include media-query($on-palm) {
 		margin-top: 50px;
