@@ -692,7 +692,7 @@ main {
 }
 .content-wrapper {
 	min-height: 300px;
-	 // margin-top: 100px;
+	 // margin-top: 100px; testing
 	@include media-query($on-palm) {
 		margin-top: 50px;
 	}
