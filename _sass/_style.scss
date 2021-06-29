@@ -581,6 +581,94 @@ main {
     color: $brand_color;
 }
 
+.color-block {
+  background: $brand_color !important;
+  color: white !important;
+//  padding: 20px !important;
+}
+
+.color-block-2 {
+  backround-color: $brand_color !important;
+  padding: 20px !important;
+  color: aqua !important;; 
+}
+
+@media screen and (min-width: 601px) {
+  .color-block {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .color-block {
+    font-size: 24px;
+  }
+}
+
+.whatever {
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+
+.page-title {
+    margin-top: 0;
+   // margin-bottom: 2em;
+    //padding: 4.6em 0 2em;
+    background: $brand_color !important;
+    font-size: 1em;
+    line-height: 1em;
+    color: #fff;
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    webkit-box-orient: horizontal;
+    webkit-box-direction: normal;    
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media only screen and (min-width: 46em) {
+  .page-title .container {
+    display: block;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.15em .5em 1.15em .6em;
+//    background: #5aadbb url(/static/rocket.d4b0456a40.png) 97% 70% no-repeat;
+    background-size: 4em auto;
+    box-sizing: border-box;
+  }
+}
+
+
+@media only screen and (min-width: 28em) {
+.page-title {
+    //margin-bottom: 1.4em;
+    //padding: 3.5em 0 1.7em;
+    font-size: 1.25em;
+  }
+}
+
+@media only screen and (min-width: 35em) {
+.page-title {
+    //margin-bottom: 1.2em;
+    //padding: 2.3em 0 1em;
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 46em) {
+.page-title {
+    margin-bottom: 1.5em;
+    padding: 0;
+    text-align: left;
+    font-size: 2.0em;
+  }
+}
+  
+
 #team {
 
 	h6 {

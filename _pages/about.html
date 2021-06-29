@@ -6,16 +6,22 @@ description: Missy is a nationally certified and state licensed Occupational The
 ---
 
 <div class="container">
+  
   <div class="row">
     <div class="col-md-12">
       {% include breadcrumbs.html %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="double-u-2">About Melissa "Missy" Bell</h1>
     </div>
   </div>
   <div id="team">
     <div class="row">
       <div class="col-md-6">
         <!--    <div class="col-md-6 history">-->
-        <h6 class="double-u">Background</h6>
         <p>Missy is a nationally certified and state licensed Occupational Therapist, Certified Driving Rehab Specialist, and Driving Instructor.</p>
         <p>With over 25 years of experience working with diverse populations across the lifespan, most of her focus has been on supporting and empowering persons/families dealing with invisible differences. Her primary goal is helping those who are underserved by healthcare and educational system limitations.</p>
         <p>Missy's OT Driving Rehabilitation experience began in 2001 at North Kansas City Hospital. There she completed clinical evaluation and potential to drive assessments with adults due to age-related or disability factors including Diabetes, Stroke, Dementia, Alzheimer’s, Brain Injury, Amputation, and Orthopedic challenges.</p>
@@ -39,30 +45,32 @@ description: Missy is a nationally certified and state licensed Occupational The
         </div>
       </div>
       <div class="row align-items-center justify-content-center">
-        <a target="_blank" href="{{site.author.linkedin}}"><div class="col-md-3 individual">
-            <img width="200" height="200" class="rounded-circle" src="/images/author-image.png" alt="">
+        <a target="_blank" href="{{site.author.linkedin}}">
+          <div class="col individual">
+            <img width="350" height="350" class="rounded-circle img-fluid" src="/images/author-image.png" alt="">
             <h4 class="name">{{site.title}}</h4>
             <p class="position"><small>{{site.title-creds}}</small></p>
-<!--            <p class="position"><small>Founder / Owner</small></p>-->
+            <!--            <p class="position"><small>Founder / Owner</small></p>-->
             <ul class="team-social">
               {% if site.author.linkedin %}
               <li><a target="_blank" href="{{site.author.linkedin}}"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
               {% endif %}
-          <!--
+              <!--
               {% if site.author.facebook %}
               <li><a target="_blank" href="{{site.author.facebook}}"><i class="fas fa-facebook-official" aria-hidden="true"></i></a></li>
               {% endif %}
           -->
-          
+
               <!--					<li><a href=""><i class="fa fa-twitter-square fa"></i></a></li>-->
               <!--
                     <li><a href="https://www.facebook.com/missybell.atx"><i class="fa fa-facebook-official fa"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/melissabellatx/"><i class="fa fa-linkedin-square fa"></i></a></li>
           -->
-          
+
             </ul>
-          </img>
-          </div></a>
+            </img>
+          </div>
+        </a>
 
       </div>
     </div>
