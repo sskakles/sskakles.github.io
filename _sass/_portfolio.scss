@@ -50,6 +50,8 @@
 	background-clip: padding-box;
 	border: 10px solid transparent;
 	overflow: hidden;
+  	background: #fff;
+
 }
 .portfolio__project__preview {
 	position: relative;
@@ -81,6 +83,40 @@
 	margin-bottom: .2em;
 	text-transform: uppercase;
 	font-weight: 300;
+	color: $brand-color;
+}
+
+.portfolio__project__description__3 {
+//	position: absolute;
+	top: 100%;
+	width: 100%;
+	padding: 1.8em 1.3em;
+	text-align: center;
+	background: #fff;
+}
+
+.portfolio__project__name__3 {
+	font-size: 1.1em;
+	margin: 0;
+	margin-bottom: .2em;
+	text-transform: uppercase;
+	font-weight: 300;
+	color: $brand-color;
+  	background: #fff;
+
+}
+
+.portfolio__project__name__2 {
+	top: 100%;
+	width: 100%;
+//	text-align: center;
+  font-size: 1.1em;
+	margin: 0;
+  	padding: 1.8em 1.3em;
+	text-transform: uppercase;
+	font-weight: 300;
+  	background: #fff;
+
 	color: $brand-color;
 }
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
+permalink: /services-old-deprecated/
 description: This is an individual item from the portfolio.
 ---
 
@@ -18,6 +18,7 @@ description: This is an individual item from the portfolio.
 		<p><strong>Date:</strong><span> {{"now" | date: '%b %Y'}}</span></p>
 	</div>
 </div>	-->
+
 
 
 
@@ -41,13 +42,11 @@ description: This is an individual item from the portfolio.
       <a href="{{item.link}}">
         <div class="portfolio__project__preview" style="background-image: url({{item.image}})">
         </div>
-<!--
         <div class="portfolio__project__description">
-         <h3 class="portfolio__project__name">{{item.title}}</h3>
-        </div>
--->
-        <div class="portfolio__project__description__3">
-         <h3 class="portfolio__project__name__3">{{item.title}}</h3>
+          <div class="info-wrapper">
+            <h3 class="portfolio__project__name">{{item.title}}</h3>
+            <!--							<p class="portfolio__project__category">{{item.category}}</p>-->
+          </div>
         </div>
       </a>
     </div>

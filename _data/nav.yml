@@ -1,13 +1,16 @@
 - title: Home
   link: '/'
-  
-- title: About
-  link: '/about/'
-  
-- title: Contact
-  link: '/contact/'
 
-- title: Projects
+- title: Services
+  link: '/portfolio/'
+
+- title: Training
+  link: '/training/'
+  
+- title: OT-First
+  link: '/ot-first/'
+
+- title: Blog
   link: '/blog/'
   
 - title: Resources
@@ -15,6 +18,9 @@
   
 - title: FAQ
   link: '/faq/'
+    
+- title: Contact
+  link: '/contact/'
   
-- title: OT-First
-  link: '/ot-first/'
+- title: About
+  link: '/about/'
